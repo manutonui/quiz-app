@@ -1,0 +1,12 @@
+form.createQuizForm > input {
+    margin: 12px;
+    padding: 8px;
+    min-width: 240px;
+}
+
+
+.instructions {
+    background-color: aquamarine;
+    padding: 12px;
+    border: 2px solid green;
+}
